@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             // Check to see if the string is blank
             if (strValue == "")
             {
-                findViewById<TextView>(R.id.textView).text = "Hello from Ethan!"
+                findViewById<TextView>(R.id.textView).text = "Android is Awesome!"
                 Log.i("userText", "No text entered: Setting to default")
             }
             else
