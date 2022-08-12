@@ -1,10 +1,9 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+This is a simple app that allows you to change the text color, the background color, enter a custom text, or used a predefined text. When the app is opened, you are greeted and can start making changes.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/ymMoaRclC5.gif" width=200><br>
 
